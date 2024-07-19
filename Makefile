@@ -184,14 +184,8 @@ macos-libs:
 	mkdir -p  $(DESKTOP_OUT)
 	curl -L $(CORE_URL)/$(CORE_NAME)-macos-universal.tar.gz | tar xz -C $(DESKTOP_OUT)
 
-ios-libs: #not tested
-	@$(MKDIR) $(IOS_OUT) || echo Folder already exists. Skipping...
-ifeq ($(OS),Windows_NT)
-	if exist $(IOS_OUT)\\Libcore.xcframework rmdir /s /q $(IOS_OUT)\\Libcore.xcframework
-else
-	$(RM) $(IOS_OUT)/Libcore.xcframework
-endif
-	curl -L $(CORE_URL)/$(CORE_NAME)-ios.tar.gz | tar xz -C "$(IOS_OUT)"
+ios-libs: # not tested
+
 
 get-geo-assets:
 	echo ""

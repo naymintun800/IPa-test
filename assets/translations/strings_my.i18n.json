@@ -1,0 +1,417 @@
+{
+  "general": {
+    "appTitle": "IPမန်း",
+    "reset": "မူလအတိုင်း",
+    "toggle": {
+      "enabled": "ဖွင့်ထားသည်",
+      "disabled": "ပိတ်ထားသည်"
+    },
+    "state": {
+      "disable": "ပိတ်မည်"
+    },
+    "sort": "အစဥ်လိုက်",
+    "sortBy": "စဥ်မည်",
+    "addToClipboard": "Copy ကူးမည်",
+    "notSet": "မထည့်ပါ",
+    "agree": "လက်ခံသည်",
+    "decline": "လက်မခံပါ",
+    "unknown": "အမည်မသိ",
+    "hidden": "ဖုံးကွယ်ထားသည်",
+    "timeout": "အချိန်ကုန်သွားသည်",
+    "clipboardExportSuccessMsg": "Copy ကူးပြီးပါပြီ",
+    "showMore": "ထပ်ပြပါ",
+    "showLess": "မပြပါနဲ့",
+    "openAppSettings": "Setting ကိုဖွင့်မည်",
+    "grantPermission": "Permission ပေးမည်"
+  },
+  "intro": {
+    "termsAndPolicyCaution(rich)": "By Continuing You Agree With ${tap(@:about.termsAndConditions)}",
+    "start": "စမည်"
+  },
+  "home": {
+    "pageTitle": "VPN",
+    "emptyProfilesMsg": "IPမန်း QR သို့မဟုတ် လင့် ထည့်ပါ",
+    "noActiveProfileMsg": "Server တစ်ခုအရင်ရွေးပါ"
+  },
+  "stats": {
+    "traffic": "Traffic",
+    "trafficLive": "Live Traffic",
+    "trafficTotal": "Total Traffic",
+    "uplink": "Uplink",
+    "downlink": "Downlink",
+    "connection": "Connection",
+    "speed": "Speed",
+    "totalTransferred": "Total Transferred"
+  },
+  "profile": {
+    "overviewPageTitle": "IPမန်း VPN များ",
+    "detailsPageTitle": "IPမန်း VPN",
+    "activeProfileNameSemanticLabel": "လက်ရှိဖွင့်ထားတဲ့ IPမန်း VPN: \"${name}\".",
+    "activeProfileBtnSemanticLabel": "IPမန်း VPN အားလုံးကြည့်မည်",
+    "nonActiveProfileBtnSemanticLabel": "Select \"${name}\" as Active Profile",
+    "subscription": {
+      "traffic": "ဒေတာ",
+      "updatedTimeAgo": "Updated ${timeago}",
+      "remainingDuration": "${duration} Days Remaining",
+      "remainingTrafficSemanticLabel": "${consumed} of ${total} Traffic Consumed",
+      "expired": "သက်တန်းကုန်ဆုံးပြီ။",
+      "noTraffic": "ဒေတာကုန်ဆုံးပြီ။",
+      "upload": "Upload",
+      "download": "Download",
+      "total": "Total Traffic",
+      "expireDate": "သက်တန်းကုန်ဆုံးရက်"
+    },
+    "sortBy": {
+      "lastUpdate": "လက်တလောထည့်ထားသော",
+      "name": "နာမည်အစဥ်လိုက်"
+    },
+    "add": {
+      "buttonText": "IPမန်း VPN ထည့်ရန်",
+      "shortBtnTxt": "IPမန်း VPN ထည့်ရန်",
+      "fromClipboard": "လင့်ထည့်မည်",
+      "scanQr": "QR Code ထည့်မည်",
+      "qrScanner": {
+        "permissionDeniedError": "Permission Denied",
+        "unexpectedError": "Something Went Wrong",
+        "torchSemanticLabel": "Flash Light",
+        "facingSemanticLabel": "Camera Facing",
+        "permissionRequest": "Permission to camera to scan QR Code"
+      },
+      "manually": "Manual Entry",
+      "addWarp": "Add Warp",
+      "addingWarpMsg": "Please wait while we register WARP.",
+      "addingProfileMsg": "Adding Profile",
+      "failureMsg": "Failed to Add Profile"
+    },
+    "update": {
+      "buttonTxt": "Update",
+      "tooltip": "Update VPN",
+      "updateSubscriptions": "IPမန်း VPN များကို Update လုပ်မည်။",
+      "failureMsg": "IPမန်း VPN Update လုပ်ခြင်းမအောင်မြင်ပါ။",
+      "successMsg": "IPမန်း VPN Update လုပ်ခြင်းအောင်မြင်သည်။",
+      "namedFailureMsg": "\"${name}\" အား Update လုပ်ခြင်းမအောင်မြင်ပါ။ ",
+      "namedSuccessMsg": "\"${name}\" အား Update လုပ်ခြင်းအောင်မြင်သည်။"
+    },
+    "share": {
+      "buttonText": "VPN မျှဝေမည်",
+      "exportToClipboardSuccess": "လင့် Copy ပြီးပါပြီ။",
+      "exportSubLinkToClipboard": "IPမန်း VPN လင့်ကို Copy လုပ်မည်",
+      "subLinkQrCode": "IPမန်း VPN Qr Code ထုတ်မည်။",
+      "exportConfigToClipboard": "Configuration Copy လုပ်မည်",
+      "exportConfigToClipboardSuccess": "Configuration Copy လုပ်ပြီးပါပြီ။"
+    },
+    "edit": {
+      "buttonTxt": "ပြင်ဆင်မည်",
+      "selectActiveTxt": "လက်ရှိ IPမန်း VPN ကိုရွေးမည်။"
+    },
+    "delete": {
+      "buttonTxt": "ဖျက်မည်။",
+      "confirmationMsg": "လက်ရှိ IPမန်း VPN ကိုဖျက်မှာသေချာပါသလား?",
+      "successMsg": "လက်ရှိ IPမန်း VPN ကိုဖျက်ပြီးပါပြီ။"
+    },
+    "save": {
+      "buttonText": "သိမ်းမည်။",
+      "successMsg": "IPမန်း VPN အားသိမ်းပြီးပါပြီ။",
+      "failureMsg": "IPမန်း VPN သိမ်းဆည်းခြင်း မအောင်မြင်။"
+    },
+    "detailsForm": {
+      "nameLabel": "နာမည်",
+      "nameHint": "IPမန်း VPN နာမည်။",
+      "urlLabel": "လင့်",
+      "urlHint": "IPမန်း VPN လင့်။",
+      "emptyNameMsg": "နာမည်ထည့်ရန်လိုအပ်သည်။",
+      "invalidUrlMsg": "လင့်မှားနေပါတယ်။",
+      "lastUpdate": "Last Update",
+      "updateInterval": "Auto Update",
+      "updateIntervalDialogTitle": " နာရီ ဘယ်လောက်မှာ တစ်ခါှ Auto Update လုပ်မလဲ?"
+    }
+  },
+  "proxies": {
+    "pageTitle": "ဆာဗာများ",
+    "emptyProxiesMsg": "ဘာ ဆာဗာမှ မရှိသေးပါ။",
+    "delayTestTooltip": "ဆာဗာ မြန်နှုန်း စမ်းမည်။",
+    "sortTooltip": "ဆာဗာများ ကိုစဥ်မည်။",
+    "checkIp": "IP ကိုစစ်မည်။",
+    "unknownIp": "IP မသိရပါ။",
+    "sortOptions": {
+      "unsorted": "မူလအတိုင်း",
+      "name": "နာမည်အစဥ်လိုက်",
+      "delay": "Speed အမြန်ဆုံးမှ"
+    },
+    "activeProxySemanticLabel": "လက်ရှိဖွင့်ထားသော ဆာဗာ",
+    "delaySemantics": {
+      "result": "မြန်နှုန်း: ${delay}ms",
+      "timeout": "မြန်နှုန်းစမ်းသပ်ခြင်းမအောင်မြင်",
+      "testing": "မြန်နှုန်းစမ်းသပ်နေသည်..."
+    },
+    "ipInfoSemantics": {
+      "address": "IP Address",
+      "country": "နိုင်ငံ"
+    }
+  },
+  "logs": {
+    "pageTitle": "Logs",
+    "filterHint": "Filter",
+    "allLevelsFilter": "အကုန်",
+    "shareCoreLogs": "Share Core Logs",
+    "shareAppLogs": "Share App Logs",
+    "pauseTooltip": "ခဏရပ်",
+    "resumeTooltip": "ပြန်စမည်။",
+    "clearTooltip": "ရှင်းမည်။"
+  },
+  "settings": {
+    "pageTitle": "စက်တင်",
+    "requiresRestartMsg": "အလုပ်ပြန်လုပ်ရန် အက်ပလီကေရှင်းအားပိတ်ပြီးပြန်ဖွင့်ပါ။",
+    "experimental": "စမ်းသပ်နေဆဲ",
+    "experimentalMsg": "စမ်းသပ်နေဆဲ လို့ရေးထားတဲ့ Features တွေဟာအလုပ် လုပ်မလုပ်မသေချာပါ။",
+    "exportOptions": "Copy Anonymous Options to Clipboard",
+    "exportAllOptions": "Copy All Options to Clipboard",
+    "importOptions": "Import Options From Clipboard",
+    "importOptionsMsg": "This will rewrite all config options with provided values. Are you sure?",
+    "general": {
+      "sectionTitle": "General",
+      "locale": "ဘာသာစကား",
+      "region": "Region",
+      "regionMsg": "Helps set default options to bypass domestic addresses",
+      "regions": {
+        "ir": "Iran (ir)",
+        "cn": "China (cn)",
+        "ru": "Russia (ru)",
+        "af": "Afghanistan (af)",
+        "other": "Other"
+      },
+      "themeMode": "ကာလာ Mode",
+      "themeModes": {
+        "system": "ဖုန်းကာလာအတိုင်း",
+        "dark": "အမှောင် Mode",
+        "light": "အလင်း Mode",
+        "black": "အမဲ Mode"
+      },
+      "enableAnalytics": "Enable Analytics",
+      "enableAnalyticsMsg": "Give permission to collect analytics and send crash reports to improve the app",
+      "autoStart": "Start At Login",
+      "silentStart": "Start Minimized",
+      "openWorkingDir": "Open Working Directory",
+      "ignoreBatteryOptimizations": "Disable Battery Optimization",
+      "ignoreBatteryOptimizationsMsg": "Remove Restrictions For Optimal VPN Performance",
+      "dynamicNotification": "Display Speed in Notification",
+      "hapticFeedback": "Haptic Feedback",
+      "autoIpCheck": "Automatically Check Connection IP"
+    },
+    "advanced": {
+      "sectionTitle": "Advanced",
+      "debugMode": "Debug Mode",
+      "debugModeMsg": "Restart the app for applying this change",
+      "memoryLimit": "Memory Limit",
+      "memoryLimitMsg": "Enable if you're experiencing out of memory errors or frequent app crash",
+      "resetTunnel": "Reset VPN Profile"
+    },
+    "network": {
+      "perAppProxyPageTitle": "Per-App Proxy",
+      "perAppProxyModes": {
+        "off": "All",
+        "offMsg": "Proxy All Apps",
+        "include": "Proxy",
+        "includeMsg": "Proxy Only Selected Apps",
+        "exclude": "Bypass",
+        "excludeMsg": "Do Not Proxy Selected Apps"
+      },
+      "showSystemApps": "Show System Apps",
+      "hideSystemApps": "Hide System Apps",
+      "clearSelection": "Clear Selection"
+    },
+    "geoAssets": {
+      "pageTitle": "Routing Assets",
+      "geoip": "GeoIP",
+      "geosite": "GeoSite",
+      "version": "Version ${version}",
+      "fileMissing": "File Missing",
+      "update": "Update",
+      "download": "Download",
+      "failureMsg": "Failed to Update Asset",
+      "successMsg": "Successfully Updated Asset",
+      "addRecommended": "Add Recommended Assets",
+      "missingGeoAssetsMsg": "Selected Routing Assets' files are missing. Either download them or choose existing ones"
+    }
+  },
+  "about": {
+    "pageTitle": "အကြောင်းအရာ",
+    "version": "Version",
+    "sourceCode": "Source Code",
+    "telegramChannel": "Telegram Channel",
+    "checkForUpdate": "Check For Update",
+    "privacyPolicy": "Privacy Policy",
+    "termsAndConditions": "Terms and Conditions"
+  },
+  "appUpdate": {
+    "notAvailableMsg": "Already Using The Latest Version",
+    "dialogTitle": "Update Available",
+    "updateMsg": "A new version of @:general.appTitle is available. Would you like to update now?",
+    "currentVersionLbl": "Current Version",
+    "newVersionLbl": "New Version",
+    "updateNowBtnTxt": "Update Now",
+    "laterBtnTxt": "Later",
+    "ignoreBtnTxt": "Ignore"
+  },
+  "tray": {
+    "dashboard": "Dashboard",
+    "quit": "ထွက်မည်။",
+    "open": "ဖွင့်မည်။",
+    "status": {
+      "connect": "ချိတ်ဆက်မည်။",
+      "connecting": "ချိတ်ဆက်နေသည်။",
+      "disconnect": "ပိတ်မည်။",
+      "disconnecting": "ပိတ်နေသည်။"
+    }
+  },
+  "failure": {
+    "unexpected": "Error တစ်ခုတက်နေသည်။",
+    "clash": {
+      "unexpected": "Error တစ်ခုတက်နေသည်။",
+      "core": "Clash Error ${reason}"
+    },
+    "singbox": {
+      "unexpected": "Unexpected Service Error",
+      "serviceNotRunning": "Service is Not Running",
+      "missingPrivilege": "Missing Privilege",
+      "missingPrivilegeMsg": "VPN Mode Requires Administrator Privileges. Either relaunch the app as administrator or change service mode.",
+      "missingGeoAssets": "Missing Geo Assets",
+      "missingGeoAssetsMsg": "Geo Assets Are Missing. Consider changing active asset or download selected one in the settings.",
+      "invalidConfigOptions": "Invalid Configuration Options",
+      "invalidConfig": "Invalid Configuration",
+      "create": "Service Creation Error",
+      "start": "Service Startup Error"
+    },
+    "connectivity": {
+      "unexpected": "Unexpected Failure",
+      "missingVpnPermission": "Missing VPN Permission",
+      "missingNotificationPermission": "Missing Notification Permission",
+      "core": "Core Error"
+    },
+    "profiles": {
+      "unexpected": "Error တစ်ခုတက်နေသည်။",
+      "notFound": "IPမန်း VPN ရှာမတွေ့ပါ။",
+      "invalidConfig": "IPမန်း VPN Config မှားနေသည်။",
+      "invalidUrl": "လင့် မှားနေသည်။"
+    },
+    "connection": {
+      "unexpected": "ချိတ်ဆက်မှု Error တက်နေသည်။",
+      "timeout": "ချိတ်ဆက်မှုမအောင်မြင်ပါ။",
+      "badResponse": "Response မကောင်းပါ။",
+      "connectionError": "ချိတ်ဆက်မှု Error တက်နေသည်။၊",
+      "badCertificate": "Certificate မကောင်းပါ။"
+    },
+    "geoAssets": {
+      "unexpected": "Error တစ်ခုတက်နေသည်။",
+      "notUpdate": "Update လုပ်စရာမရှိပါ။",
+      "activeNotFound": "Active Geo Asset Not Found"
+    }
+  },
+  "play": {
+    "title": "IPမန်း (Preview)",
+    "short_description": "Auto, SSH, VLESS, VMess, Trojan, Reality, Sing-Box, Clash, XRay, Shadowsocks",
+    "full_description": "IPမန်း အက်ပလီကေးရှင်း ဟာ IPမန်း မှ ထုတ်ပေးတဲ့ Xray Core Configuration တွေဖြစ်တဲ့ Qr Code ၊ Subscription လင့်များမှ တိကျ၊ မြန်ဆန်၊ လုံခြုံသော IPမန်း VPN ဆာဗာအားချိတ်ဆက်ရန်ဖြစ်ပါတယ်။"
+  },
+  "connection": {
+    "tapToConnect": "VPN ဖွင့်ရန် နှိပ်ပါ။",
+    "connecting": "ဖွင့်နေသည်...",
+    "disconnecting": "ပိတ်နေသည်...",
+    "disconnected": "ပိတ်ထားသည်",
+    "connected": "ဖွင့်ထားသည်",
+    "reconnect": "ပြန်ဖွင့်မည်",
+    "connectAnyWay": "ဖွင့်မည်",
+    "experimentalNotice": "စမ်းသပ်ဆဲဖြစ်တဲ့ Feature အားအသုံးပြုနေသည်။",
+    "experimentalNoticeMsg": "ယခုလူကြီးမင်းဟာ စမ်းသပ်ဆဲဖြစ်တဲ့ Feature အားရွေးချယ်ထားသည့်အတွက် Error တက်နိုင်ချေရှိပါသည်။",
+    "disableExperimentalNotice": "ထပ်မပြပါနဲ့။",
+    "reconnectMsg": "IPမန်း VPN အားပိတ်ပြီးပြန်ဖွင့်ပေးပါ။"
+  },
+  "config": {
+    "resetBtn": "Reset လုပ်ရန်",
+    "serviceMode": "Service Mode",
+    "quickSettings": "Quick Settings",
+    "setupWarp": "Setup WARP",
+    "allOptions": "All Config Options",
+    "serviceModes": {
+      "proxy": "Proxy Service Only",
+      "systemProxy": "Set System Proxy",
+      "tun": "VPN",
+      "tunService": "VPN Service"
+    },
+    "shortServiceModes": {
+      "proxy": "Proxy",
+      "systemProxy": "System Proxy",
+      "tun": "VPN",
+      "tunService": "VPN Service"
+    },
+    "section": {
+      "route": "Route Options",
+      "dns": "DNS Options",
+      "inbound": "Inbound Options",
+      "mux": "MultiPlexer",
+      "outbound": "Outbound Options",
+      "tlsTricks": "TLS Tricks",
+      "warp": "WARP Options",
+      "misc": "Misc Options"
+    },
+    "warpConsent": {
+      "title": "Cloudflare WARP Consent",
+      "description(rich)": "Cloudflare WARP is a Free WireGuard VPN Provider. By enabling this option you are agreeing to the Cloudflare WARP's ${tos(Terms of Service)} and ${privacy(Privacy Policy)}."
+    },
+    "generateWarpConfig": "Generate WARP Config",
+    "missingWarpConfig": "Missing WARP Config",
+    "warpConfigGenerated": "WARP Config Generated",
+    "pageTitle": "ဆာဗာ Option",
+    "logLevel": "Log Level",
+    "blockAds": "ကြော်ငြာမဝင်အောင် block မည်။",
+    "resolveDestination": "Resolve Destination",
+    "ipv6Mode": "IPv6 Route",
+    "ipv6Modes": {
+      "disable": "Disable",
+      "enable": "Enable",
+      "prefer": "Preferred",
+      "only": "Exclusive"
+    },
+    "remoteDnsAddress": "Remote DNS",
+    "remoteDnsDomainStrategy": "Remote DNS Domain Strategy",
+    "directDnsAddress": "Direct DNS",
+    "directDnsDomainStrategy": "Direct DNS Domain Strategy",
+    "mixedPort": "Mixed Port",
+    "tproxyPort": "Transparent Proxy Port",
+    "localDnsPort": "Local DNS Port",
+    "allowConnectionFromLan": "Share VPN in Local Network",
+    "tunImplementation": "TUN Implementation",
+    "mtu": "MTU",
+    "connectionTestUrl": "Connection Test URL",
+    "urlTestInterval": "URL Test Interval",
+    "enableClashApi": "Enable Clash API",
+    "clashApiPort": "Clash API Port",
+    "enableTun": "Enable TUN",
+    "setSystemProxy": "Set System Proxy",
+    "enableDnsRouting": "Enable DNS Routing",
+    "enableFakeDns": "Enable Fake DNS",
+    "bypassLan": "Bypass Lan",
+    "strictRoute": "Strict Route",
+    "enableTlsFragment": "Enable TLS Fragment",
+    "tlsFragmentSize": "TLS Fragment Size",
+    "tlsFragmentSleep": "TLS Fragment Sleep",
+    "enableTlsMixedSniCase": "Enable TLS Mixed SNI Case",
+    "enableTlsPadding": "Enable TLS Padding",
+    "tlsPaddingSize": "TLS Padding",
+    "enableMux": "Enable Mux",
+    "muxProtocol": "Mux Protocol",
+    "muxMaxStreams": "Max Concurrent Streams",
+    "enableWarp": "Enable WARP",
+    "warpDetourMode": "Detour Mode",
+    "warpDetourModes": {
+      "proxyOverWarp": "Detour Proxies Through WARP",
+      "warpOverProxy": "Detour WARP Through Proxies",
+      "inbound": "Detour WARP Through Proxies",
+      "outbound": "Detour Proxies Through WARP"
+    },
+    "warpLicenseKey": "License Key",
+    "warpCleanIp": "Clean IP",
+    "warpPort": "Port",
+    "warpNoise": "Noise Count",
+    "warpNoiseDelay": "Noise Delay"
+  }
+}

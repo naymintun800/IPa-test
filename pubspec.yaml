@@ -13,7 +13,6 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   cupertino_icons: ^1.0.6
-  intl: ^0.18.1
   humanizer: ^2.2.0
 
   lite_rolling_switch: ^1.0.1
@@ -115,6 +114,7 @@ dev_dependencies:
 dependency_overrides:
   # drift & package_info_plus are not compatible
   web: ^0.5.1
+  intl: ^0.19.0
 
 flutter:
   uses-material-design: true

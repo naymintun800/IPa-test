@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:freezed_annotation/freezed_annotation.dart","transitive":false},{"uri":"package:hiddify/core/localization/translations.dart","transitive":false},{"uri":"package:hiddify/features/connection/model/connection_failure.dart","transitive":false}],"elements":[]}

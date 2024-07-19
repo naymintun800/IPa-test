@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:flutter/services.dart","transitive":false},{"uri":"package:hiddify/core/preferences/preferences_provider.dart","transitive":false},{"uri":"package:riverpod_annotation/riverpod_annotation.dart","transitive":false},{"uri":"package:shared_preferences/shared_preferences.dart","transitive":false}],"elements":[]}

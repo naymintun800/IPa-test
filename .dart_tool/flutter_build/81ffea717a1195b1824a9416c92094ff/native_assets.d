@@ -1,0 +1,1 @@
+ C:\\Users\\silen\\Documents\\IPMAN\\IPman\ App\\APP\\Ipman2\\.dart_tool\\flutter_build\\81ffea717a1195b1824a9416c92094ff\\native_assets.yaml: 

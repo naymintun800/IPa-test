@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:flutter/material.dart","transitive":false},{"uri":"package:image_picker/image_picker.dart","transitive":false},{"uri":"package:qrscan/qrscan.dart","transitive":false}],"elements":[]}

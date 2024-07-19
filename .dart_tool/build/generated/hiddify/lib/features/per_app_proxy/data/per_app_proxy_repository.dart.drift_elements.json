@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:flutter/services.dart","transitive":false},{"uri":"package:fpdart/fpdart.dart","transitive":false},{"uri":"package:hiddify/features/per_app_proxy/model/installed_package_info.dart","transitive":false},{"uri":"package:hiddify/utils/utils.dart","transitive":false}],"elements":[]}

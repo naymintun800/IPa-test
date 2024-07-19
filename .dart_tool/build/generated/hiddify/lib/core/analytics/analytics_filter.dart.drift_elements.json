@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:dio/dio.dart","transitive":false},{"uri":"package:hiddify/core/model/failures.dart","transitive":false},{"uri":"package:riverpod_annotation/riverpod_annotation.dart","transitive":false},{"uri":"package:sentry_flutter/sentry_flutter.dart","transitive":false}],"elements":[]}

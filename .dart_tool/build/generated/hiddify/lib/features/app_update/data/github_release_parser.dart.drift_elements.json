@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:dartx/dartx.dart","transitive":false},{"uri":"package:hiddify/core/model/environment.dart","transitive":false},{"uri":"package:hiddify/features/app_update/model/remote_version_entity.dart","transitive":false}],"elements":[]}

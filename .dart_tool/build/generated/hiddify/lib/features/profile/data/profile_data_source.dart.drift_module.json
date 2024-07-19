@@ -1,0 +1,54 @@
+{
+  "elements": {
+    "ProfileDao": {
+      "id": {
+        "library_uri": "package:hiddify/features/profile/data/profile_data_source.dart",
+        "name": "ProfileDao"
+      },
+      "declaration": {
+        "source_uri": "package:hiddify/features/profile/data/profile_data_source.dart",
+        "offset": 1020,
+        "name": "ProfileDao"
+      },
+      "references": [
+        {
+          "library_uri": "package:hiddify/core/database/tables/database_tables.dart",
+          "name": "profile_entries"
+        }
+      ],
+      "type": "dao",
+      "tables": [
+        {
+          "library_uri": "package:hiddify/core/database/tables/database_tables.dart",
+          "name": "profile_entries"
+        }
+      ],
+      "views": [],
+      "includes": [],
+      "queries": [],
+      "dart_type": {
+        "elements": [
+          {
+            "lexeme": "ProfileDao",
+            "import_uri": "package:hiddify/features/profile/data/profile_data_source.dart"
+          }
+        ]
+      },
+      "database": {
+        "elements": [
+          {
+            "lexeme": "AppDatabase",
+            "import_uri": "package:hiddify/core/database/app_database.dart"
+          }
+        ]
+      }
+    }
+  },
+  "imports": [
+    "package:drift/drift.dart",
+    "package:hiddify/core/database/app_database.dart",
+    "package:hiddify/core/database/tables/database_tables.dart",
+    "package:hiddify/features/profile/model/profile_sort_enum.dart",
+    "package:hiddify/utils/utils.dart"
+  ]
+}

@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:hiddify/singbox/generated/core.pb.dart","transitive":true},{"uri":"package:grpc/service_api.dart","transitive":false},{"uri":"package:protobuf/protobuf.dart","transitive":false},{"uri":"package:hiddify/singbox/generated/core.pb.dart","transitive":false}],"elements":[]}

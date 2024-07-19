@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:flutter_test/flutter_test.dart","transitive":false},{"uri":"package:hiddify/features/profile/data/profile_parser.dart","transitive":false},{"uri":"package:hiddify/features/profile/model/profile_entity.dart","transitive":false}],"elements":[]}

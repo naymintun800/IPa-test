@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:hiddify/core/preferences/preferences_provider.dart","transitive":false},{"uri":"package:hiddify/utils/custom_loggers.dart","transitive":false},{"uri":"package:hooks_riverpod/hooks_riverpod.dart","transitive":false},{"uri":"package:shared_preferences/shared_preferences.dart","transitive":false}],"elements":[]}

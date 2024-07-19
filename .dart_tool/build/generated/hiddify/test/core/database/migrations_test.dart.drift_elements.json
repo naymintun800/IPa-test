@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:drift_dev/api/migrations.dart","transitive":false},{"uri":"package:flutter_test/flutter_test.dart","transitive":false},{"uri":"package:hiddify/core/database/app_database.dart","transitive":false},{"uri":"asset:hiddify/test/core/database/generated_migrations/schema.dart","transitive":false}],"elements":[]}

@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:drift/drift.dart","transitive":false},{"uri":"package:drift/native.dart","transitive":false},{"uri":"package:hiddify/core/directories/directories_provider.dart","transitive":false},{"uri":"package:path/path.dart","transitive":false}],"elements":[]}

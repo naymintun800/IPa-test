@@ -1,0 +1,53 @@
+{
+  "elements": {
+    "AppDatabase": {
+      "id": {
+        "library_uri": "package:hiddify/core/database/app_database.dart",
+        "name": "AppDatabase"
+      },
+      "declaration": {
+        "source_uri": "package:hiddify/core/database/app_database.dart",
+        "offset": 892,
+        "name": "AppDatabase"
+      },
+      "references": [
+        {
+          "library_uri": "package:hiddify/core/database/tables/database_tables.dart",
+          "name": "profile_entries"
+        },
+        {
+          "library_uri": "package:hiddify/core/database/tables/database_tables.dart",
+          "name": "geo_asset_entries"
+        }
+      ],
+      "type": "database",
+      "tables": [
+        {
+          "library_uri": "package:hiddify/core/database/tables/database_tables.dart",
+          "name": "profile_entries"
+        },
+        {
+          "library_uri": "package:hiddify/core/database/tables/database_tables.dart",
+          "name": "geo_asset_entries"
+        }
+      ],
+      "views": [],
+      "includes": [],
+      "queries": [],
+      "schema_version": 3,
+      "daos": []
+    }
+  },
+  "imports": [
+    "package:drift/drift.dart",
+    "package:drift_dev/api/migrations.dart",
+    "package:flutter/foundation.dart",
+    "package:hiddify/core/database/connection/database_connection.dart",
+    "package:hiddify/core/database/converters/duration_converter.dart",
+    "package:hiddify/core/database/schema_versions.dart",
+    "package:hiddify/core/database/tables/database_tables.dart",
+    "package:hiddify/features/geo_asset/model/geo_asset_entity.dart",
+    "package:hiddify/features/profile/model/profile_entity.dart",
+    "package:hiddify/utils/custom_loggers.dart"
+  ]
+}

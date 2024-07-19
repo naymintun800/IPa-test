@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b9ed851-8eab-47c7-a7e6-360992137249" name="Changes" comment="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="ipmanipa" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ipman" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN"
+    }
+  ],
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/naymintun800/IPa-test&quot;,
+    &quot;accountId&quot;: &quot;b21f727b-2a0a-48c2-bb9b-008cce513b0b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jHMOQuSULrXlTIg4LbRS0bLCxl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Flutter.main.dart.executor": "Run",
+    "Makefile Target.ios-libs.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "ipmanipa",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/silen/Documents/IPMAN/IPman App/APP/Ipman2/android",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General",
+    "show.migrate.to.gradle.popup": "false"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\silen\Documents\IPMAN\IPman App\APP\Ipman2\assets\translations" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Makefile Target.ios-libs">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ios-libs" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="ios-libs" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile Target.ios-libs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b9ed851-8eab-47c7-a7e6-360992137249" name="Changes" comment="" />
+      <created>1721039516617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721039516617</updated>
+    </task>
+    <task id="LOCAL-00001" summary="START Commit">
+      <option name="closed" value="true" />
+      <created>1721386266919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721386266920</updated>
+    </task>
+    <task id="LOCAL-00002" summary="START Commit">
+      <option name="closed" value="true" />
+      <created>1721388432033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721388432033</updated>
+    </task>
+    <task id="LOCAL-00003" summary="START Commit">
+      <option name="closed" value="true" />
+      <created>1721392479449</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721392479449</updated>
+    </task>
+    <task id="LOCAL-00004" summary="START Commit">
+      <option name="closed" value="true" />
+      <created>1721392553376</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721392553376</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721392609216</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721392609216</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721392623817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721392623817</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721392783601</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721392783601</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721392803826</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721392803826</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721393331132</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721393331132</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721393348436</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721393348436</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721393376563</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721393376563</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721394336221</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721394336221</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721394530501</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721394530501</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721397238817</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721397238817</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721397660693</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1721397660693</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721398674141</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721398674141</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721399361724</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721399361724</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721400066630</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1721400066630</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa">
+      <option name="closed" value="true" />
+      <created>1721409359362</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1721409359362</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="START Commit" />
+    <MESSAGE value="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'new1/ipmanipa' into ipmanipa" />
+  </component>
+</project>

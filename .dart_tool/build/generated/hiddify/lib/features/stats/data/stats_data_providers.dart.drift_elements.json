@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:hiddify/features/stats/data/stats_repository.dart","transitive":false},{"uri":"package:hiddify/singbox/service/singbox_service_provider.dart","transitive":false},{"uri":"package:riverpod_annotation/riverpod_annotation.dart","transitive":false}],"elements":[]}
